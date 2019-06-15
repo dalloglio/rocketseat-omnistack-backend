@@ -1,7 +1,7 @@
 {
-  "name": "backend",
-  "version": "1.0.0",
-  "description": "",
+  "name": "rocketseat-omnistack-backend",
+  "description": "Backend da aplicação da Semana OmniStack 7.0 da Rocketseat.",
+  "version": "0.1.0",
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon"
